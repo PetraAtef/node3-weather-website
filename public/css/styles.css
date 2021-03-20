@@ -12,7 +12,7 @@ body {
 
 .main-content {
     flex-grow: 1;
-    background-image: linear-gradient(to bottom right, rgba(0, 0, 255, 0.048), rgba(35, 35, 204, 0.911));
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 255, 0.055), rgba(0, 0, 255, 0.61));
     padding: 0 16px;
 }
 
